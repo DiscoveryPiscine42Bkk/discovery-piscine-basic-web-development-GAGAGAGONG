@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(246, 178, 189);
+    .navbar{
+        background-color: antiquewhite;
+        text-align: center;
+    }
+
+    .title {
+        text-align: center;
+        p {
+            font-size: 48px;
+        }
+    }
+    .sec-img {
+       
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        }
+
+        .sec-one {
+            margin: 48 px;
+            padding: 24px;
+            text-align: center;
+        }
+        .sec-two {
+            margin: 48 px;
+            padding: 24px;
+            text-align: center;
+        }
+    .underline {
+        background-color: antiquewhite;
+    }
+    footer{
+        text-align: end;
+        p {
+            font-family: monospace;
+        }
+    }
+}
