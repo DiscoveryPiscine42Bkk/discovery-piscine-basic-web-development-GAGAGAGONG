@@ -1,0 +1,35 @@
+body {
+    .content-container{
+        display: flex;
+   
+        
+
+
+        .first-container {
+            width: 50%;
+            height: 300px;
+            border-style: solid;
+            border-color: black;
+            background-color: rgb(159, 255, 159);
+            display: flex;
+            align-items: center;
+            p{
+                font-size: 48px;
+            }
+        }
+        .second-container {
+            width: 50%;
+            height: 300px;
+            border-style: solid;
+            border-color: black;
+            background-color: rgb(236, 113, 113);
+            display: flex;
+            align-items: center;
+            p{
+                font-size: 48px;
+            }
+        }
+    }
+
+}
+
